@@ -1,3 +1,4 @@
+//This code is flashed onto a Particle Photon device
 // ------------
 // Alarm
 // ------------
